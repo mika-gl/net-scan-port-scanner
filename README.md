@@ -1,8 +1,6 @@
-# net-scan-port-scanner
+# NET\_SCAN.C, A TCP PORT SCANNER IN C
 A proof of concept TCP scanner that uses the connect() system call to test how a server responds to probes.
 
-# NET\_SCAN.C, A TCP PORT SCANNER IN C
-### Video Demo:  <URL HERE>
 ### Overview:
 
 This program is a command line TCP port scanning tool implemented using the C programming language.\
